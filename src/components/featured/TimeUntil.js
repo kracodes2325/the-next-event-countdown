@@ -5,7 +5,7 @@ export default class componentName extends Component {
   
  state = {
 
-    deadline:"Feb, 15, 2020",
+    deadline:"Feb, 15, 2026",
     days: '0',
     hours: '0',
     minutes: '0',
